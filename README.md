@@ -40,3 +40,12 @@ Kerbal Currency Display는 커벌 스페이스 프로그램에서 게임 내 화
 ### 라이선스
 이 모드는 **CC BY-NC-ND 4.0 국제 라이선스**로 배포됩니다.  
 [자세한 내용 보기](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko)
+
+---
+
+## Screenshots
+
+![Main Window](1.png)
+![Settings Window](2.png)
+![Statistics Window](3.png)
+![Part List](4.png)
