@@ -1,45 +1,44 @@
 # Kerbal Currency Display  
-*(KSP Currency to Real-World Currency Converter)*  
+
+## English  
+
+Have you ever wondered how much your in-game funds (√) would be worth in real money?  
+Here’s the solution: **Kerbal Currency Display** converts Kerbal Funds (√) into **USD** and other major currencies.  
+With category-based weighting, it’s designed to reflect real-world value as closely as possible.  
+
+### Features  
+- Converts in-game funds (√) to USD with **category-based weighting** for realistic pricing.  
+- Supports multiple currencies: **USD, KRW, JPY, EUR**.  
+- Provides a **detailed part-by-part price list**.  
+- **Statistics window** includes:  
+  - Total part count  
+  - Spending by category (with percentage of total)  
+  - Most and least expensive parts (overall and per category)  
+
+### License  
+Distributed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International** license.  
+[Learn more](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
 
 ---
 
-## English
+## 한국어  
 
-Kerbal Currency Display is a Kerbal Space Program mod that converts in-game funds (√) into USD,  
-and then applies exchange rates to display the equivalent amount in KRW, JPY, or EUR.
+게임 내에서 사용하는 자금(√)이 실제 화폐가치로 얼마나 될지 궁금해 하셨던 경험이 있나요?  
+**Kerbal Currency Display**가 그 답을 드리겠습니다. 이 모드는 인게임 자금(√)을 **USD**를 비롯한 주요 통화로 변환해 주며,  
+카테고리별로 가중치를 적용해 실제 화폐 가치에 최대한 가깝게 설계되었습니다.  
 
-### Features
-- Converts in-game funds (√) to USD using category-based weighting for more realistic pricing.
-- Supports multiple currencies: USD, KRW, JPY, EUR.
-- Displays a part-by-part price list.
-- **Statistics window**:
-  - Total number of parts.
-  - Total spending per category (and percentage of total).
-  - Most and least expensive parts (overall and per category).
+### 주요 기능  
+- **카테고리별 가중치**를 적용해 현실적인 USD 환산 가격 계산  
+- 지원 통화: **USD, KRW, JPY, EUR**  
+- **부품별 가격 리스트** 제공  
+- **통계 창** 기능:  
+  - 전체 부품 개수  
+  - 카테고리별 지출액 및 전체 대비 비율  
+  - 전체/카테고리별 가장 비싼 부품과 저렴한 부품  
 
-### License
-This mod is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International** license.  
-[Read more here.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
----
-
-## 한국어
-
-Kerbal Currency Display는 커벌 스페이스 프로그램에서 게임 내 화폐(√)를 USD로 변환한 뒤,  
-환율을 적용해 KRW, JPY, EUR로 표시해 주는 모드입니다.
-
-### 주요 기능
-- 카테고리별 가중치를 적용해 현실적인 USD 환산 가격 계산.
-- 지원 통화: USD, KRW, JPY, EUR.
-- 부품별 가격 리스트 표시.
-- **통계 창**:
-  - 전체 부품 개수.
-  - 카테고리별 총 지출액 및 전체 대비 비율.
-  - 전체/카테고리별 가장 비싼 부품, 가장 저렴한 부품.
-
-### 라이선스
+### 라이선스  
 이 모드는 **CC BY-NC-ND 4.0 국제 라이선스**로 배포됩니다.  
-[자세한 내용 보기](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko)
+[자세히 보기](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko)  
 
 ---
 
