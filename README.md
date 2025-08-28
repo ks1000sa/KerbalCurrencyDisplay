@@ -48,7 +48,7 @@ Distributed under the **Creative Commons Attribution-NonCommercial-NoDerivatives
 
 ## Screenshots
 
-![Main Window](1.png)
-![Settings Window](2.png)
-![Statistics Window](3.png)
-![Part List](4.png)
+![Main Window](1-8.png)
+![Settings Window](1-5.png)
+![Statistics Window](1-6.png)
+![Part List](1-7.png)
