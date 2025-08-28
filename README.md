@@ -10,10 +10,12 @@ With category-based weighting, it’s designed to reflect real-world value as cl
 - Converts in-game funds (√) to USD with **category-based weighting** for realistic pricing.  
 - Supports multiple currencies: **USD, KRW, JPY, EUR**.  
 - Provides a **detailed part-by-part price list**.  
-- **Statistics window** includes:  
+- **Statistics window** with expandable/collapsible sections:  
   - Total part count  
   - Spending by category (with percentage of total)  
-  - Most and least expensive parts (overall and per category)  
+  - Most and least expensive parts (overall and per category, with clickable entries to highlight the parts in the editor)
+- **Language** selection:
+  - Switch between supported languages (English / Korean) instantly in settings.
 
 ### License  
 Distributed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International** license.  
@@ -31,10 +33,12 @@ Distributed under the **Creative Commons Attribution-NonCommercial-NoDerivatives
 - **카테고리별 가중치**를 적용해 현실적인 USD 환산 가격 계산  
 - 지원 통화: **USD, KRW, JPY, EUR**  
 - **부품별 가격 리스트** 제공  
-- **통계 창** 기능:  
+- **통계 창** 기능 (카테고리별 확장/축소 가능):  
   - 전체 부품 개수  
   - 카테고리별 지출액 및 전체 대비 비율  
-  - 전체/카테고리별 가장 비싼 부품과 저렴한 부품  
+  - 전체/카테고리별 가장 비싼/저렴한 부품 (클릭 시 부품 강조 표시)
+- **언어 설정** 기능
+  - 설정 메뉴에서 즉시 영어/한국어 전환 가능
 
 ### 라이선스  
 이 모드는 **CC BY-NC-ND 4.0 국제 라이선스**로 배포됩니다.  
